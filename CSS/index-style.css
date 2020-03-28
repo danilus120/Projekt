@@ -1,0 +1,14 @@
+/*
+
+.single_post {
+  display: flex;
+  margin: 10px;
+}
+
+.single_post--left {
+  width: all;
+}
+
+.single_post--right {
+  margin: 20px;
+}

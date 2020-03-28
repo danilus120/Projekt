@@ -1,0 +1,46 @@
+/*#Font-font-family: "Open Sans", sans-serif;*/
+/*
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+section.header {
+  height: 10vh;
+  width: 100%;
+  display: flex;
+}
+
+.left {
+  width: 70%;
+}
+
+img {
+  height: 100%;
+  width: 15%;
+  margin-left: 3%;
+}
+
+.right {
+  width: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.right a {
+  text-decoration: none;
+  color: grey;
+}
+
+.right a:hover {
+  color: darkgray;
+}
+
+.right p {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+*/
