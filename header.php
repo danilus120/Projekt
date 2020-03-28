@@ -12,7 +12,17 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="css/footer-style.css">
-
+        <link rel="stylesheet" type="text/css" href="css/header-style.css">
+        <link rel="stylesheet" type="text/css" href="css/index-style.css">
+        <link rel="stylesheet" type="text/css" href="css/konto-style.css">
+        <link rel="stylesheet" type="text/css" href="css/logowanie-style.css">
+        <link rel="stylesheet" type="text/css" href="css/ogloszenie-style.css">
+        <link rel="stylesheet" type="text/css" href="css/rejestracja_a-style.css">
+        <link rel="stylesheet" type="text/css" href="css/rejestracja-style.css">
+        <link rel="stylesheet" type="text/css" href="css/search-style.css">
+        <link rel="stylesheet" type="text/css" href="css/wylistowanie-style.css">
+        <link rel="stylesheet" type="text/css" href="css/z_email-style.css">
+        <link rel="stylesheet" type="text/css" href="css/z_haslo-style.css">
     </head>
     <body>
         <section class="header">
